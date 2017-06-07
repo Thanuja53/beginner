@@ -6,7 +6,7 @@ class Prnt
       if(n <= 10) 
       {
          System.out.println(n); 
-         recursivefun(n+1);  
+         recur(n+1);  
       }
     }
     public static void main(String args[]) 
